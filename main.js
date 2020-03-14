@@ -1,0 +1,1 @@
+var Mouse = require('./mouse');
